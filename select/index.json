@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "しるし",
+  "base_artist": "Mr.Children",
+  "createdAt": "2026-03-27T05:22:05.315391Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "しるし",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/01_しるし_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "しるし",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/02_しるし_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "しるし",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/03_しるし_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "しるし",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/04_しるし_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラックライフ / しるし [Music Video]（TVアニメ『文豪ストレイドッグス』第4シーズン ED主題歌）",
+      "artist": "Luck Life",
+      "has_synced": true,
+      "path": "select/05_ラックライフ___しるし_[Music_Video](TVアニメ『文豪ストレイドッグス』第4シーズン_ED主題歌)_Luck_Life.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "しるし",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/06_しるし_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "しるし",
+      "artist": "LUCK LIFE",
+      "has_synced": true,
+      "path": "select/07_しるし_LUCK_LIFE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "しるし - Shirushi",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/08_しるし_-_Shirushi_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "しるし",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/09_しるし_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "しるし",
+      "artist": "RYUTist",
+      "has_synced": true,
+      "path": "select/10_しるし_RYUTist.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "しるし - Shirushi",
+      "artist": "LUCKLIFE",
+      "has_synced": true,
+      "path": "select/11_しるし_-_Shirushi_LUCKLIFE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "しるし - Shirushi",
+      "artist": "LUCK LIFE",
+      "has_synced": true,
+      "path": "select/12_しるし_-_Shirushi_LUCK_LIFE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "しるし",
+      "artist": "茶太",
+      "has_synced": true,
+      "path": "select/13_しるし_茶太.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "しるし",
+      "artist": "愛内里菜",
+      "has_synced": false,
+      "path": "select/14_しるし_愛内里菜.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "しるし",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_しるし_Mr.Children.txt"
+    }
+  ]
+}
